@@ -3,8 +3,8 @@ Callback adalah metode pengiriman notifikasi transaksi dari server Maupedia ke s
 
 # TODO
 1. Tambahkan URL Callback anda di Pengaturan API MauPedia [Profile APIs](https://member.maupedia.com/account/profile)
-2. Contoh Handle Callback ada di Webhooks.php pada repository ini, Sesuaikan dengan aplikasi anda.
-3. Untuk Melihat Detail Contoh Isi / Content yang dikirim [Developer MauPedia](https://developer.maupedia.com/docs/2.2/webhooks)
+2. Contoh Handle Callback ada di Webhooks.php pada repository ini, Sesuaikan dengan aplikasi anda. [Webhooks](https://github.com/aamfahrur/callback-maupedia/blob/main/webhooks.php)
+3. Untuk Melihat Detail Contoh Isi / Content yang dikirim lihat di [Developer MauPedia](https://developer.maupedia.com/docs/2.2/webhooks)
 
 Contoh Isi / Content yang dikirim
 ---------
